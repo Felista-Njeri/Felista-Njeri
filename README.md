@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felista Njeri</h1>
-<h3 align="center">A passionate frontend developer building solutions across the Web2 and Web3 space.</h3>
+<h3 align="center">A passionate frontend developer building solutions across the Web2 and Web3 industry.</h3>
 
 - 💬 Ask me about **Blockchain, AI, React, React Native, Nextjs, Typescript, Solidity**
 
