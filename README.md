@@ -1,5 +1,5 @@
 # About Me
-Hey! I'm Felista Njeri, a Frontend and Blockchain Developer<br>I love cats...but I guess you already knew that :D
+Hey! I'm Felista Njeri, a Software Engineer and Blockchain Developer<br>I love cats...but I guess you already knew that :D
 
 ## Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
